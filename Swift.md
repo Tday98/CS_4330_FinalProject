@@ -1,6 +1,6 @@
-#Swift Comparison done by Tristan Day
+# Swift Comparison done by Tristan Day
 
-##Language Purpose/Genesis
+## Language Purpose/Genesis
 
 Swift was designed around using Apple's Cocoa and Cocoa Touch frameworks and the already in existence Obj-C code.
 
@@ -8,13 +8,13 @@ Swift addressed some common programming issues such as null pointers and it prov
 
 Swift is mainly a replacement to Apple's previous Objective-C code.
 
-##Unique Features
+## Unique Features
 
 Swift has unique features such as Optionals and multiple return values
 
 Other features are Closures, generics, structs that support methods, extensions and protocols, and Functional programming patterns.
 
-##Namespaces
+## Namespaces
 
 Namespaces are per-target.
 
