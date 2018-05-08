@@ -16,9 +16,25 @@ Other features are Closures, generics, structs that support methods, extensions 
 
 ## Namespaces
 
+
 Namespaces are per-target.
 
 Chris Lattner stated, "Namespacing is implicit in Swift, all classes (etc) are scoped by the module (XCode Target) they are in. No class prefixes needed"
 
-[EXAMPLE](Swift/namespace.swift)
+[EXAMPLE](Swift/namespace.playground)
+
+## Types
+
+Swift supports all basic types and multiple other types such as structs, enums, and classes
+
+Reference types such as a class are supported and so are value types such as structs, enums, and tuples.
+
+New value types can be created in swift
+
+[Example](Swift/types.playground)
+
+## Classes
+
+[Example](Swift/classes.playground)
+
 
